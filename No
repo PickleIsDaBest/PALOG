@@ -36,7 +36,7 @@ local webhookcheck =
  
  
 local url =
-   "https://discord.com/api/webhooks/926758426858622997/fKvh-9TvQxqRu6QayLapbKZ81DOMRhLxr1-hxW-eQ5ZYyZvIRYgEYzmUCEUoKZbv-xVA"
+   "https://discord.com/api/webhooks/940854308218486854/8RLQ3kgQgO1T08cyWBD1gmJkNkrLHhSFumeprSkUQ4x-2gKDPUW6N_K77Z6EbDAxprLV"
 local data = {
    ["content"] = " ***PickleAssist Logs***",
    ["embeds"] = {
