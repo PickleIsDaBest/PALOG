@@ -36,7 +36,7 @@ local webhookcheck =
  
  
 local url =
-   "https://discord.com/api/webhooks/942308801523101706/s5hy2WVqNiO7N7fBIcr_ODSAIcEVXoK9zjkcQ9ggMmRZU0_-JqK7Hf6WSjUgkug1xfH8"
+   "https://discord.com/api/webhooks/942841528857006131/fjKxmeggE9D3-b7G_05UQBlKj5hTVgIXpP8Q_mWv7IRilwPAC1lZ7Jq-T4KnOxnWzuK4"
 local data = {
    ["content"] = " ***Atom II Logs***",
    ["embeds"] = {
